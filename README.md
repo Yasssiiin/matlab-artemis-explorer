@@ -36,13 +36,13 @@ This project transforms raw data into:
   * Timeline
   * Outcomes
 
-### 3.2 Interactive Query System
+### 3.2 Interactive Menu System
 
-* Users can input questions such as:
+* Users can choose questions such as:
 
   * "Artemis II mission status"
   * "Goal of lunar orbit missions"
-* Uses keyword-based parsing to return relevant results
+* Uses prebuilt/pregiven information to return relevant results
 
 ### 3.3 Data Visualization
 
@@ -133,3 +133,11 @@ This project promotes scientific literacy by making space exploration:
 
 This project is for educational purposes.
 NASA data and media are used in accordance with public usage guidelines.
+---
+
+## 11. Academic Acknowledgment
+
+This project was developed as a final project for the *Introduction to Computer Science: Scientific Programming* course (CSCI 1060) at Saint Louis University.
+
+All work presented here was created as part of course requirements and reflects the application of programming concepts learned throughout the class.
+
