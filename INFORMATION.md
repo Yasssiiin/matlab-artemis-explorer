@@ -22,7 +22,7 @@ matlab-artemis-explorer/
 3. Run the main script:
 
    ```
-   main.m
+   artemis_mission_data_explorer.m
    ```
 4. Follow the on-screen prompts to explore mission data
 
@@ -52,7 +52,7 @@ matlab-artemis-explorer/
 
 ## 5. Limitations
 
-* Uses keyword-based parsing (not full natural language processing)
+* Uses prebuilt menu options (not full natural language processing)
 * Static datasets (no live API integration)
 * MATLAB-only interface
 
