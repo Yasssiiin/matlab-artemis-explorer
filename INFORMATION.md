@@ -32,10 +32,13 @@ matlab-artemis-explorer/
 
 ## Demo
 
-### Interface
+### User Menu Interface
 ![Interface](images/interface.png)
 
-### Data Visualization
+### Information UI
+![Interface](images/A2Demo.png)
+
+### Data Visualization UI
 ![Plot](images/plot.png)
 
 ---
