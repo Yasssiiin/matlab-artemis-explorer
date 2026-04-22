@@ -48,7 +48,7 @@ matlab-artemis-explorer/
 ## 4. Features Overview
 
 * Mission summaries
-* Interactive query system
+* Interactive menu system
 * Data visualization (plots, charts)
 * Media references
 * Concept exploration mode
