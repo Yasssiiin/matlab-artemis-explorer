@@ -41,6 +41,8 @@ matlab-artemis-explorer/
 ### Data Visualization UI
 ![Plot](images/plot.png)
 
+### Artemis 3 Trajectory UI Example
+![Plot](images/Trajectory.png)
 ---
 
 ## 4. Features Overview
